@@ -24,6 +24,8 @@ Creating cluster "kind" ...
         disableDefaultCNI: true
         root@instance-20240305-124116:/home/laplastech# 
 
+`kind create cluster --config=kind-config.yaml`
+
 
 
 
