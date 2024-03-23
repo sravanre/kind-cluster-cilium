@@ -37,7 +37,7 @@ Creating cluster "kind" ...
 
 so the order would be to install, docker, kind , cilium to fix the networking , 
 
-
+wi
 
 
 
